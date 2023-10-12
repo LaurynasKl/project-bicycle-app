@@ -6,7 +6,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://
+Site published at: https://laurynaskl.github.io/project-bicycle-app/
 
 Designe [Bicycle Booking](https://dribbble.com/shots/4026998-Home-Page-for-Bicycle-Booking/attachments/10156345?mode=media)
 
